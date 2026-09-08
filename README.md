@@ -33,33 +33,22 @@ continue my learning journey, and to make a career out of it!
 
 ## Personal Projects
 
+
+
 ## What I Use
 
-![Python](python-img)
-![Nicegui](nicegui-img)
+<a href="https://python.org"><img src="https://python.org/static/favicon.ico" width="32" height="32" alt="Python"></a>
+<a href="https://nicegui.io"><img src="https://nicegui.io/favicon/favicon.ico" width="32" height="32" alt="NiceGUI"></a>
+<a href="https://quasar.dev"><img src="https://cdn.quasar.dev/logo-v2/favicon/favicon.ico" width="32" height="32" alt="Quasar"></a>
+<a href="https://tailwindcss.com"><img src="https://tailwindcss.com/favicons/favicon.ico" width="32" height="32" alt="Tailwind CSS"></a>
 
 ---
 
+<a href="https://ubuntu.com/"><img src="https://assets.ubuntu.com/v1/8114528b-picto-ubuntu-orange.png" width="32" height="32" alt="Ubuntu"></a>
+<a href="https://kali.org"><img src="https://kali.org/images/favicon.svg" width="32" height="32" alt="Kali Linux"></a>
 
 ## Reach Out to Me
 
-<!-- Link anchors -->
-[python-lnk]: https://python.org
-[gitlab-lnk]: https://www.gitlab.com/summersphinx
-[discord-lnk]: https://discord.com/users/724745879604560023
-[nicegui-lnk]: https://nicegui.io
-[xplus-lnk]: https://xplus.dev
-[quasar-lnk]: https://quasar.dev
-[tailscale-lnk]: https://tailwindcss.com
-[ubuntu-lnk]: https://ubuntu.com/
-[kali-lnk]: https://kali.org
-
-[python-img]: https://python.org/static/favicon.ico
-[gitlab-img]: https://www.gitlab.com/-/pwa-icons/logo-192.png
-[discord-img]: https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/62fddf0fde45a8baedcc7ee5_847541504914fd33810e70a0ea73177e%20(2)-1.png
-[nicegui-img]: https://nicegui.io/favicon/favicon.ico
-[xplus-img]: https://gitlab.com/xplus-studios/xplus-toolkit/-/raw/main/logo/Icon-white.ico
-[quasar-img]: https://quasar.dev/logo-v2/favicon/favicon.ico
-[tailscale-img]: https://tailwindcss.com/favicons/favicon.ico
-[ubuntu-img]: https://assets.ubuntu.com/v1/8114528b-picto-ubuntu-orange.png
-[kali-img]: https://kali.org/images/favicon-light.svg
+<a href="https://www.gitlab.com/summersphinx"><img src="https://www.gitlab.com/-/pwa-icons/logo-192.png" width="32" height="32" alt="GitLab"></a>
+<a href="https://discord.com/users/724745879604560023"><img src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/62fddf0fde45a8baedcc7ee5_847541504914fd33810e70a0ea73177e%20(2)-1.png" width="32" height="32" alt="Discord"></a>
+<a href="https://xplus.dev"><img src="https://gitlab.com/xplus-studios/xplus-toolkit/-/raw/main/logo/Icon-white.ico" width="32" height="32" alt="XPlus"></a>
