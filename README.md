@@ -31,10 +31,6 @@ continue my learning journey, and to make a career out of it!
 > 
 > - Create folders on a Microsoft Server, with different share permissions.
 
-## Personal Projects
-
-
-
 ## What I Use
 
 <a href="https://python.org"><img src="https://python.org/static/favicon.ico" width="32" height="32" alt="Python"></a>
