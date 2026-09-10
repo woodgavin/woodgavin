@@ -15,21 +15,17 @@ continue my learning journey, and to make a career out of it!
 > - Create Virtual Machines in Azure.
 > - Connect remotely to the VMs on Windows and Linux.
 
-> <h3><a href="https://github.com/woodgavin/osticketlab">osTicket</a></h3>
-> 
-> - Install osTicket on an Azure VM.
-> - Create different users with different roles and permissions.
-> - Create fake tickets, and work through them in different methods.
-
 > <h3><a href="https://github.com/woodgavin/adlab">Active Directory</a></h3>
 > 
 > - Create an Active Directory Network.
 > - Create users inside the AD Network.
 > - Create and manage Group Policies.
 
-> <h3><a href="https://github.com/woodgavin/npfslab">Network Permissions and File Shares</a></h3>
+> <h3><a href="https://github.com/woodgavin/osticketlab">osTicket</a></h3>
 > 
-> - Create folders on a Microsoft Server, with different share permissions.
+> - Install osTicket on an Azure VM.
+> - Create different users with different roles and permissions.
+> - Create fake tickets, and work through them in different methods.
 
 ## What I Use
 
