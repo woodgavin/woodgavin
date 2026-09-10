@@ -27,6 +27,10 @@ continue my learning journey, and to make a career out of it!
 > - Create different users with different roles and permissions.
 > - Create fake tickets, and work through them in different methods.
 
+## Personal Projects
+
+Most of my projects I host over on [Gitlab](https://gitlab.com/summersphinx). I also run the [xplus.dev](https://xplus.dev) website, where I build different games and tools.
+
 ## What I Use
 
 <a href="https://python.org"><img src="https://python.org/static/favicon.ico" width="32" height="32" alt="Python"></a>
