@@ -23,9 +23,9 @@ continue my learning journey, and to make a career out of it!
 
 > <h3><a href="https://github.com/woodgavin/osticketlab">osTicket</a></h3>
 > 
-> - Install osTicket on an Azure VM.
-> - Create different users with different roles and permissions.
-> - Create fake tickets, and work through them in different methods.
+> - Walk through pre-install setup.
+> - Configure IIS and MariaSQL.
+> - Configure osTicket post install.
 
 ## Personal Projects
 
